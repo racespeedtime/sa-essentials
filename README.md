@@ -15,4 +15,4 @@
 - NoRadio(RadioOff)
 - FpsControl
   - FramerateVigilante + PreciseFramerateLimiter
-  - For open.mp/samp, recommended run /fpslimit 60 for vehicle control(infernus), 0 (unlimited) for Observer/Replay/SpectateAny.
+  - For open.mp/samp, recommended run /fpslimit 60 + Lossless Scaling 2x for vehicle control(infernus), 0 (unlimited) for Observer/Replay/SpectateAny.
